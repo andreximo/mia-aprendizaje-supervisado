@@ -1,0 +1,5 @@
+modelo,columnas,rmse_cv,mae_prueba,rmse_prueba,r2_prueba,comentario
+Siempre el promedio,0,1.1482,0.9317,1.1764,-0.0007,✏️ escribe tu comentario
+Recta con MedInc,1,0.8276,0.6437,0.8648,0.4592,✏️ escribe tu comentario
+Lineal con 7 variables,7,0.6681,0.5052,0.6865,0.6592,✏️ escribe tu comentario
+Polinomial grado 3,119,0.5785,0.4176,0.5918,0.7467,✏️ escribe tu comentario

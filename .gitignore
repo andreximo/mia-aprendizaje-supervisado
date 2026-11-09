@@ -5,6 +5,13 @@ build/
 dist/
 wheels/
 *.egg-info
+.ruff*
+.gitignore
 
 # Virtual environments
 .venv
+
+#Archivos de prueba
+solucion*
+examen_error*
+Test*
