@@ -1,0 +1,9 @@
+variable,pct_atipicos,decision,justificacion
+MedInc,3.3,(completa: ninguno / clip / log / excluir / indicador),(completa)
+HouseAge,0.0,(completa: ninguno / clip / log / excluir / indicador),(completa)
+AveRooms,2.5,(completa: ninguno / clip / log / excluir / indicador),(completa)
+AveBedrms,6.9,(completa: ninguno / clip / log / excluir / indicador),(completa)
+Population,5.8,(completa: ninguno / clip / log / excluir / indicador),(completa)
+AveOccup,3.4,(completa: ninguno / clip / log / excluir / indicador),(completa)
+Latitude,0.0,(completa: ninguno / clip / log / excluir / indicador),(completa)
+Longitude,0.0,(completa: ninguno / clip / log / excluir / indicador),(completa)

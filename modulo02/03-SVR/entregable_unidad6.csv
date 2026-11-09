@@ -1,0 +1,6 @@
+modelo,rmse_prueba,comentario
+SVR RBF (GridSearchCV),2.517,✏️ escribe tu comentario
+Ridge,11.132,✏️ escribe tu comentario
+OLS,11.155,✏️ escribe tu comentario
+Lasso,11.155,✏️ escribe tu comentario
+SVR lineal,11.542,✏️ escribe tu comentario
